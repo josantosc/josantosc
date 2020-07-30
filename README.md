@@ -6,7 +6,7 @@ Estou sempre dispoto a aprender tecnologias novas, não canso de estudar, sou ap
 
 Sou graduado em Redes de Computadores pela [Faculdade Laboro](https://laboro.edu.br/)
 
-Atualmente sou consultor de implantação de ERP de Gestão em Saúde.
+Atualmente sou consultor de implantação de sistema ERP com foco em Gestão em Saúde.
 
 Estudante de Ciencia de Dados na [Data Science Academy](https://www.datascienceacademy.com.br/) e React.js | Node.js na [Rocketseat](https://rocketseat.com.br/)
 
