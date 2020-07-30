@@ -2,7 +2,7 @@
  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjoeckson)
 
 ### Sobre min
-Sempre dispodo em aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados e aprecio o compartilhamento de conhecimento.
+Estou sempre dispoto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados e aprecio o compartilhamento de conhecimento.
 
 Sou graduado em Redes de Computadores pela [Faculdade Laboro](https://laboro.edu.br/)
 
@@ -12,7 +12,17 @@ Estudante de Ciencia de Dados na [Data Science Academy](https://www.datasciencea
 
 
 
-### Coisas que mais gosto de aprender
+### Habilidades
+
+* Python
+* Machine Learning
+* Chatbot
+* DialogFlow
+* TensorFlow
+* JavaScript
+* React.js
+* Node.js
+
 <!--
 **josantosc/josantosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
