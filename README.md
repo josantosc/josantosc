@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=whire&link=https://www.linkedin.com/in/duhborba/)]
+(https://www.linkedin.com/in/joeckson/)
+
+
+### Sobre min
+
+### Coisas que mais gosto de aprender
 <!--
 **josantosc/josantosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
