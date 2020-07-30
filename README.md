@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-[![https://img.shields.io/badge/-Linkedin-blue](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=whire&link=https://www.linkedin.com/in/joeckson/)](https://www.linkedin.com/in/joeckson/)
-| ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjoeckson)
+[![https://img.shields.io/badge/-Linkedin-blue](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/joeckson/)
+ ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjoeckson)
 
 ### Sobre min
 
