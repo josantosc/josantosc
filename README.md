@@ -1,5 +1,7 @@
 [![https://img.shields.io/badge/-Linkedin-blue](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/joeckson/)
  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjoeckson)
+ 
+ <p align="center"><img src="https://github.com/josantosc/josantosc/blob/master/fig.gif"></p>
 
 ### Sobre min
 Estou sempre dispoto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados e aprecio o compartilhamento de conhecimento.
