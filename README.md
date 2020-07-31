@@ -4,7 +4,7 @@
  <p align="center"><img src="https://github.com/josantosc/josantosc/blob/master/fig2.gif"></p>
 
 ### Sobre min
-Estou sempre dispoto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados e aprecio o compartilhamento de conhecimento.
+Estou sempre disposto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados e aprecio o compartilhamento de conhecimento.
 
 Sou graduado em Redes de Computadores pela [Faculdade Laboro](https://laboro.edu.br/)
 
