@@ -4,11 +4,11 @@
  <p align="center"><img src="https://github.com/josantosc/josantosc/blob/master/fig2.gif"></p>
 
 ### Sobre min
-Estou sempre disposto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados e aprecio o compartilhamento de conhecimento.
+Estou sempre disposto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados, ChatBots e aprecio o compartilhamento de conhecimento.
 
 Sou graduado em Redes de Computadores pela [Faculdade Laboro](https://laboro.edu.br/)
 
-Atualmente sou consultor de implantação de sistema ERP com foco em Gestão em Saúde.
+Atualmente sou desenvolvedor de software.
 
 Estudante de Ciencia de Dados na [Data Science Academy](https://www.datascienceacademy.com.br/) e React.js | Node.js na [Rocketseat](https://rocketseat.com.br/)
 
