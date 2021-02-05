@@ -6,7 +6,7 @@
 ### Sobre min
 Estou sempre disposto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados, ChatBots e aprecio o compartilhamento de conhecimento.
 
-Sou graduado em Redes de Computadores pela [Faculdade Laboro](https://laboro.edu.br/), cursando Pós-Graduação em Arquitetura de de Software pelo [IGTI](https://www.igti.com.br/) e Mestrando em Ciencia da Computação pela [UFMA](https://sigaa.ufma.br/sigaa/public/programa/apresentacao_stricto.jsf?lc=pt_BR&idPrograma=1117)
+Sou graduado em Redes de Computadores pela [Faculdade Laboro](https://laboro.edu.br/), cursando Pós-Graduação em Arquitetura de Software pelo [IGTI](https://www.igti.com.br/) e Mestrando em Ciencia da Computação pela [UFMA](https://sigaa.ufma.br/sigaa/public/programa/apresentacao_stricto.jsf?lc=pt_BR&idPrograma=1117)
 
 Atualmente sou desenvolvedor de software.
 
