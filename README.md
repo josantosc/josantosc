@@ -10,7 +10,7 @@ Aluno de Mestrado em Ciencia da Computação/Processamento de Linguagem Natural 
 
 Atualmente trabalho como Analista Desenvolvedor de Software na Sinch.
 
-Estudante de Ciencia de Dados na [Data Science Academy](https://www.datascienceacademy.com.br/) e React.js | Node.js na [Rocketseat](https://rocketseat.com.br/)
+Estudante de Ciencia de Dados na [Data Science Academy](https://www.datascienceacademy.com.br/) e Node.js na [Rocketseat](https://rocketseat.com.br/)
 
 
 
