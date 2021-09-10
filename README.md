@@ -4,11 +4,11 @@
  <p align="center"><img src="https://github.com/josantosc/josantosc/blob/master/fig2.gif"></p>
 
 ### Sobre min
-Estou sempre disposto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Ciencia de Dados, ChatBots e aprecio o compartilhamento de conhecimento.
+Estou sempre disposto a aprender tecnologias novas, não canso de estudar, sou apaixonado por Desenvolvimento de Software, Machine Learning, Processamento de Linguagem Natural e aprecio o compartilhamento de conhecimento.
 
-Sou graduado em Redes de Computadores pela [Faculdade Laboro](https://laboro.edu.br/), cursando Pós-Graduação em Arquitetura de Software pelo [IGTI](https://www.igti.com.br/) e Mestrando em Ciencia da Computação/Inteligência Artificial pela [UFMA](https://sigaa.ufma.br/sigaa/public/programa/apresentacao_stricto.jsf?lc=pt_BR&idPrograma=1117)
+Aluno de Mestrado em Ciencia da Computação/Processamento de Linguagem Natural pela [UFMA](https://sigaa.ufma.br/sigaa/public/programa/apresentacao_stricto.jsf?lc=pt_BR&idPrograma=1117)
 
-Atualmente sou desenvolvedor de software.
+Atualmente trabalho como Analista Desenvolvedor de Software na Sinch.
 
 Estudante de Ciencia de Dados na [Data Science Academy](https://www.datascienceacademy.com.br/) e React.js | Node.js na [Rocketseat](https://rocketseat.com.br/)
 
@@ -17,11 +17,12 @@ Estudante de Ciencia de Dados na [Data Science Academy](https://www.datasciencea
 ### Habilidades
 
 * Python
-* JavaScript
+* Elixir
 * Machine Learning
 * Node.js
-* Chatbot
+* Agentes Conversacionais
 * DialogFlow
+* Rasa
 * GCP
 
 
